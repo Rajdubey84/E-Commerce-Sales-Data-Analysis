@@ -133,7 +133,7 @@ Interactive filters/slicers allow users to explore the data dynamically.
 
 ## 📊 Dashboard Preview
 
-![E-commerce Dashboard](Dashboard/ecommerce_dashboard.png)
+![E-commerce Dashboard](Ecommerce_Sales.jpg)
 
 ---
 
@@ -146,7 +146,7 @@ Ecommerce-Data-Analysis/
 │
 ├── Data/
 │   ├── Ecommerce_Unclean_Project.xlsx
-│   └── Clean_Ecommerce.xlsx
+│   └── Clean_Ecommerce.csv
 │
 ├── Python/
 │   └── Import to sql-checkpoint.ipynb
